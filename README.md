@@ -17,3 +17,7 @@ matplotlib的一些示例代码
 直方图：
 
 ![image](https://github.com/MichaelLee826/matplotlibtest/blob/master/images/Chapter2_Figure_2.3.png)
+
+饼图：
+
+![image](https://github.com/MichaelLee826/matplotlibtest/blob/master/images/Chapter2_Figure_2.4.png)
